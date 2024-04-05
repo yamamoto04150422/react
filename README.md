@@ -1,6 +1,9 @@
-# react routerのサンプル
+# 観点
+## react routerのサンプル
 
-# usecallbackとmemoを使用
+## usecallbackとmemoを使用
+
+## 簡易atomic design
 
 # Getting Started with Create React App
 
